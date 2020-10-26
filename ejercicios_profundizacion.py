@@ -10,9 +10,9 @@ Descripcion:
 Programa creado para que practiquen los conocimietos adquiridos durante la semana
 '''
 
-__author__ = "Inove Coding School"
-__email__ = "alumnos@inove.com.ar"
-__version__ = "1.3"
+__author__ = "Marcos Ludueña"
+__email__ = "marcosluduea89@gmail.com"
+__version__ = "1.0"
 
 
 def ej1():
